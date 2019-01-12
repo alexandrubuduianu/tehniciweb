@@ -1,0 +1,40 @@
+{
+  "cumpara": [
+    {
+      "id": 1,
+      "nume": "Prundurel Vlad",
+      "numarTelefon": "0700123456",
+      "model": "Elegant shine"
+    },
+    {
+      "id": 2,
+      "nume": "Buzatu Narcis DANIEL",
+      "numarTelefon": "0700123456",
+      "model": "Modern black"
+    },
+    {
+      "id": 3,
+      "nume": "Radu Raluca Alexandra",
+      "numarTelefon": "0700123456",
+      "model": "Light brown"
+    },
+    {
+      "id": 4,
+      "nume": "Cazan Alexandra",
+      "numarTelefon": "0700123456",
+      "model": "Elegant shine"
+    },
+    {
+      "id": 6,
+      "nume": "Costel",
+      "numarTelefon": "0999999999",
+      "pantof": "Dark blue"
+    },
+    {
+      "id": 7,
+      "nume": "ion",
+      "numarTelefon": "1234",
+      "model": "Dark wood"
+    }
+  ]
+}
